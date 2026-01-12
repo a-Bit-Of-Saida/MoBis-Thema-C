@@ -74,7 +74,7 @@ Die Saalverwaltung umfasst insbesondere:
 
 ## 📅 Abgabe
 
-**Abgabefrist:** xx.xx 2026  
+**Abgabefrist:** 06.02.2026  
 **Abgabeformat:**  
 - Entwurfsdokument (PDF oder Word)  
 - Astah-Modell (.asta)
